@@ -105,3 +105,22 @@ You can deploy this application to Vercel for free with one click.
 
 4.  **Deploy:**
     - Click the "Deploy" button. Vercel will build and host your application, providing you with a live URL.
+
+# UI preview gallery:
+![IMG1](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.03.35_c33825e5.jpg?raw=true)
+![IMG2](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.05.06_974b01ca.jpg?raw=true)
+![IMG3](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.05.31_8afa211d.jpg?raw=true)
+![IMG4](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.06.00_c8b5696a.jpg?raw=true)
+![IMG5](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.06.38_fcec8e48.jpg?raw=true)
+![IMG6](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.06.57_b4a5cf3b.jpg?raw=true)
+![IMG7](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.07.14_2b7a07d5.jpg?raw=true)
+![IMG8](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.07.38_1a6536d0.jpg?raw=true)
+![IMG9](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.08.04_d74367b5.jpg?raw=true)
+![IMG10](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.08.25_29c57223.jpg?raw=true)
+![IMG11](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.08.53_19215a6d.jpg?raw=true)
+![IMG12](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.09.16_b267391b.jpg?raw=true)
+![IMG13](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.09.43_9938deae.jpg?raw=true)
+![IMG14](https://github.com/RohanDas26/AcadMate/blob/main/AcadMate%20(preview)/WhatsApp%20Image%202025-08-01%20at%2010.10.39_b593f884.jpg?raw=true)
+
+
+
