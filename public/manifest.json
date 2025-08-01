@@ -1,0 +1,22 @@
+
+{
+  "name": "AcadMate: Your Academic Sidekick",
+  "short_name": "AcadMate",
+  "description": "A comprehensive productivity application for students, featuring a Pomodoro timer, notes manager, PDF viewer, and an AI chat assistant powered by Gemini. Organize your study life, stay focused, and get help when you need it.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
