@@ -22,6 +22,8 @@ This application integrates essential tools into a single, beautiful interface, 
 
 ---
 
+## Demo Video: https://drive.google.com/file/d/1P_vZJjolFTw9q9iNTjLQRwh-mnEKQ9wZ/view?usp=sharing
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** [React](https://reactjs.org/) & [TypeScript](https://www.typescriptlang.org/)
